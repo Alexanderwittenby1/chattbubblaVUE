@@ -7,7 +7,7 @@
 1. Clone the repo
 2. Run <code>npm i -y</code>
 3. run <code>npm run serve</code>
-4. Go to localhost:8080 in your browser
+4. Go to <code>localhost:8080</code> in your browser
 5. Play around!
 
 
